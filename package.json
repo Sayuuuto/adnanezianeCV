@@ -1,0 +1,28 @@
+{
+    "name": "white-carrot",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "dependencies": {
+        "nightwind": "^1.1.13",
+        "phosphor-vue": "^4.4.1",
+        "social-links": "^1.10.0",
+        "vue": "^3.2.47",
+        "vue-router": "^4.1.6"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^1.10.2",
+        "autoprefixer": "^10.4.14",
+        "eslint": "^7.32.0",
+        "eslint-config-prettier": "^8.8.0",
+        "eslint-plugin-vue": "^7.20.0",
+        "postcss": "^8.4.21",
+        "prettier": "^2.8.7",
+        "tailwindcss": "^2.2.19",
+        "vite": "^2.9.15",
+        "vue-cli-plugin-pug": "~2.0.0"
+    }
+}
